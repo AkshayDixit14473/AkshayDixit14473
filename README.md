@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://i.pinimg.com/originals/da/40/4b/da404bf7bd4398c9f256c65507d3c860.jpg))]
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
