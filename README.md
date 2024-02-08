@@ -1,6 +1,6 @@
 ![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Akshay</h1>
-<h3 align="center"A seasoned Chief Information Security Officer with a comprehensive background in software development and DevOps, I bring over 3 years of experience in spearheading enterprise-wide security strategies, managing risk, and ensuring compliance in fast-paced, technology-driven environments.</h3>
+<h3 align="center"A seasoned Chief Information Security Officer with a comprehensive background in software development and DevOps, I bring over 3 years of experience in spearheading enterprise-wide security strategies, managing risk, and ensuring compliance in fast-paced, technology-driven environments."</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <h3 align="left">Connect with me:</h3>
